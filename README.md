@@ -1,3 +1,10 @@
+# Blockchain Python tutorial for RIMT Date 31 August 2018 
+
+<div style="display:block;margin:auto;height:100px;width:100px">
+   <img style="display:block;margin:auto;height:50px;width:100px" src="https://trainingbasket.in/wp-content/uploads/2017/12/TB_logo_trans.png">
+</div>
+
+
 # Blockchain Python tutorial
 * Source Code for my blog post: [A Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/)
 
