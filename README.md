@@ -1,8 +1,15 @@
-# Blockchain Python tutorial for RIMT Date 31 August 2018 
+
+# Dheeraj Singh, 
+<h5>Speacker at RIMT for a workshop on Blockchain Python tutorial </h5>
+
+<img  style="display:block;margin:auto;height:10px;width:10px;" src="https://media.licdn.com/dms/image/C5603AQFslmv7qXVpUA/profile-displayphoto-shrink_200_200/0?e=1541030400&v=beta&t=HavkhL-WfoZsVSKVE7CNuzStjRI3-st7NKLH0QNTq74">
+
+  
+
 <h4> 
   <ol>
     <li>Visit My Blogs at https://trainingbasket.in </li>
-    <li>Update Your Profile at https://trainingbasket.in </li>
+    <li>Me at linked in  https://www.linkedin.com/in/dheeraj-singh-4328241b/  </li>
     <li>Update Your Profile at https://trainingbasket.in </li>
   </ol>
 </h4>
