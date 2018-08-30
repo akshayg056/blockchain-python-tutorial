@@ -1,5 +1,5 @@
 
-# Dheeraj Singh, 
+# Dheeraj Singh, Code Quality Architect, Technical Enthusiast
 <h5>Speaker at RIMT for a workshop on Blockchain Python tutorial </h5>  
 
 <h4> 
