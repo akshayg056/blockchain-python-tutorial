@@ -1,8 +1,9 @@
 # Blockchain Python tutorial for RIMT Date 31 August 2018 
 
-<div style="display:block;margin:auto;height:100px;width:100px">
-   <img style="display:block;margin:auto;height:50px;width:100px" src="https://trainingbasket.in/wp-content/uploads/2017/12/TB_logo_trans.png">
-</div>
+# Dependencies
+
+- Works with ```Python 3.6``` 
+- [Anaconda's Python distribution](https://www.continuum.io/downloads) contains all the dependencies for the code to run.
 
 
 # Blockchain Python tutorial
@@ -33,10 +34,6 @@ This github repository also contains 2 dashboards:
 - "Blockchain Client" for users to generate wallets and send coins 
 
 
-# Dependencies
-
-- Works with ```Python 3.6``` 
-- [Anaconda's Python distribution](https://www.continuum.io/downloads) contains all the dependencies for the code to run.
 
 # How to run the code
 
