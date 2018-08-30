@@ -1,4 +1,11 @@
 # Blockchain Python tutorial for RIMT Date 31 August 2018 
+<h4> 
+  <ol>
+    <li>Visit My Blogs at https://trainingbasket.in </li>
+    <li>Update Your Profile at https://trainingbasket.in </li>
+    <li>Update Your Profile at https://trainingbasket.in </li>
+  </ol>
+</h4>
 
 # Dependencies
 
@@ -46,4 +53,4 @@ This github repository also contains 2 dashboards:
 
 
 
-# Visit my Blog : http://adilmoujahid.com
+
