@@ -44,6 +44,7 @@ This github repository also contains 2 dashboards:
 
 # How to run the code
 
+0. Run `pip install -r requirements.txt` on your Python environment to install dependencies.
 1. To start a blockchain node, go to ```blockchain``` folder and execute the command below:
 ```python blockchain.py -p 5000```
 2. You can add a new node to blockchain by executing the same command and specifying a port that is not already used. For example, ```python blockchain.py -p 5001```
